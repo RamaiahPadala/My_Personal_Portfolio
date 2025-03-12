@@ -6,7 +6,7 @@ const Home = () => {
         <>
             <div className="header-container">
                 <div className="image">
-                    <img src="src/images/user.jpeg" className="profile-image" alt="Profile" />
+                    <img src="https://github.com/RamaiahPadala/portfolio/blob/main/images/user.jpeg?raw=true" className="profile-image" alt="Profile" />
                 </div>
                 <div className="matter">
                     <h1>Welcome to My Portfolio</h1>
