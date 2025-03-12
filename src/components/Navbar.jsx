@@ -16,7 +16,7 @@ const Navbar = () => {
 
     return (
         <nav>
-            <img src="src/images/logo.png" className="logo" alt="Logo" />
+            <img src="https://github.com/RamaiahPadala/portfolio/blob/main/images/logo.png?raw=true" className="logo" alt="Logo" />
             <ul id="sidemenu" className={menuOpen ? "active" : ""}>
                 <li>
                     <Link to="/">Home</Link>
